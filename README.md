@@ -24,7 +24,7 @@ The dataset used in this project can be accessed from the data directory. It con
 - Number of scans with tumors: XXX
 - Number of scans without tumors: XXX
 - MRI scan resolution: XXX pixels x XXX pixels
-- Data source: [Provide the source or citation]
+- Data source: https://www.kaggle.com/code/matthewmekha/brain-meningioma-mri-identification-99-accuracy
 
 
 ## Installation
