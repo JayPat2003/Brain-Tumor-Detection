@@ -20,10 +20,10 @@ This machine learning project focuses on detecting brain tumors in medical image
 ## Dataset
 The dataset used in this project can be accessed from the data directory. It contains a collection of brain MRI images, both with and without tumors. Preprocessing steps, such as image resizing and normalization, are documented in the Jupyter notebooks available in the notebooks folder.
 
-- Total number of MRI scans: XXX
-- Number of scans with tumors: XXX
-- Number of scans without tumors: XXX
-- MRI scan resolution: XXX pixels x XXX pixels
+- Total number of MRI scans: 1,445
+- Number of scans with tumors: 945
+- Number of scans without tumors: 500
+- MRI scan resolution: 512 pixels x 512 pixels
 - Data source: https://www.kaggle.com/code/matthewmekha/brain-meningioma-mri-identification-99-accuracy
 
 
